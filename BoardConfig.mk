@@ -155,7 +155,7 @@ TW_EXCLUDE_TWRPAPP := true
 # SHRPIFY
 
 SHRP_PATH := device/xiaomi/violet
-SHRP_MAINTAINER := Brock
+SHRP_MAINTAINER := BRock
 SHRP_DEVICE_CODE := violet
 SHRP_EDL_MODE := 1
 SHRP_EXTERNAL := /sdcard1
